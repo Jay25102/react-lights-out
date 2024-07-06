@@ -1,0 +1,135 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`rendering boards initial board matches snapshot for empty board 1`] = `
+<DocumentFragment>
+  <h1>
+    You Win!
+  </h1>
+</DocumentFragment>
+`;
+
+exports[`rendering boards initial board matches snapshot for full board 1`] = `
+<DocumentFragment>
+  <div>
+    <h1>
+      Lights Off
+    </h1>
+    <table
+      class="Board"
+    >
+      <tbody>
+        <tr>
+          <td
+            class="Cell Cell-lit"
+            role="button"
+          />
+          <td
+            class="Cell Cell-lit"
+            role="button"
+          />
+          <td
+            class="Cell Cell-lit"
+            role="button"
+          />
+          <td
+            class="Cell Cell-lit"
+            role="button"
+          />
+          <td
+            class="Cell Cell-lit"
+            role="button"
+          />
+        </tr>
+        <tr>
+          <td
+            class="Cell Cell-lit"
+            role="button"
+          />
+          <td
+            class="Cell Cell-lit"
+            role="button"
+          />
+          <td
+            class="Cell Cell-lit"
+            role="button"
+          />
+          <td
+            class="Cell Cell-lit"
+            role="button"
+          />
+          <td
+            class="Cell Cell-lit"
+            role="button"
+          />
+        </tr>
+        <tr>
+          <td
+            class="Cell Cell-lit"
+            role="button"
+          />
+          <td
+            class="Cell Cell-lit"
+            role="button"
+          />
+          <td
+            class="Cell Cell-lit"
+            role="button"
+          />
+          <td
+            class="Cell Cell-lit"
+            role="button"
+          />
+          <td
+            class="Cell Cell-lit"
+            role="button"
+          />
+        </tr>
+        <tr>
+          <td
+            class="Cell Cell-lit"
+            role="button"
+          />
+          <td
+            class="Cell Cell-lit"
+            role="button"
+          />
+          <td
+            class="Cell Cell-lit"
+            role="button"
+          />
+          <td
+            class="Cell Cell-lit"
+            role="button"
+          />
+          <td
+            class="Cell Cell-lit"
+            role="button"
+          />
+        </tr>
+        <tr>
+          <td
+            class="Cell Cell-lit"
+            role="button"
+          />
+          <td
+            class="Cell Cell-lit"
+            role="button"
+          />
+          <td
+            class="Cell Cell-lit"
+            role="button"
+          />
+          <td
+            class="Cell Cell-lit"
+            role="button"
+          />
+          <td
+            class="Cell Cell-lit"
+            role="button"
+          />
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</DocumentFragment>
+`;
